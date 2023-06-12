@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: caixanegraAlvaro.P1CaixaNegraATest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.007 s <<< FAILURE! - in caixanegraAlvaro.P1CaixaNegraATest
+cp3  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: DNI erróneo
+	at caixanegraAlvaro.P1CaixaNegraATest.cp3(P1CaixaNegraATest.java:45)
+
+cp4  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: DNI erróneo
+	at caixanegraAlvaro.P1CaixaNegraATest.cp4(P1CaixaNegraATest.java:55)
+
+cp5  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: DNI erróneo
+	at caixanegraAlvaro.P1CaixaNegraATest.cp5(P1CaixaNegraATest.java:65)
+
+cp6  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalArgumentException: DNI erróneo
+	at caixanegraAlvaro.P1CaixaNegraATest.cp6(P1CaixaNegraATest.java:75)
+
